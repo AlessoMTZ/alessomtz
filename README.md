@@ -1,6 +1,6 @@
 # Hola Soy Gastón Metzger 👋🏼
 
-Soy desarrolador de sfotware en progreso
+Soy desarrolador de software en progreso, tengoe xperiencia desarrollando apps en AWS, tengo manejo de herramientas frontend y backend, así como manejo de bases de datos SQL y noSQL
 
 ### Tecnologías 👨🏼‍💻
 
